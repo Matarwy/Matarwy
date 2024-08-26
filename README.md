@@ -3,7 +3,7 @@
 
 <p align="left">
   <span> <img src="https://komarev.com/ghpvc/?username=matarwy&label=Github%20Profile%20views&color=0e75b6&style=flat" alt="matarwy" /> </span>  
-  <span> <a href="https://twitter.com/Alhassan_EG" target="blank"><img src="https://img.shields.io/twitter/follow/Alhassan_EG?logo=twitter&style=flat" alt="Alhassan_EG" /></a> </span>
+  <span> <a href="https://twitter.com/MatarwyPro" target="blank"><img src="https://img.shields.io/twitter/follow/MatarwyPro?logo=twitter&style=flat" alt="Matarwy_Pro" /></a> </span>
 </p>
 
 <h3 align="left">Support:</h3>
